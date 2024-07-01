@@ -7,10 +7,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- * @author: Theekshana De Silva,
- * @Runtime version: 11.0.11+9-b1341.60amd64
- **/
 @Entity
 @Data
 @NoArgsConstructor

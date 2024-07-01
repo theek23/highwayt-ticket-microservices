@@ -12,10 +12,6 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * @author: Theekshana De Silva,
- * @Runtime version: 11.0.11+9-b1341.60amd64
- **/
 @Service
 public class PaymentServiceImpl implements PaymentService {
     private final PaymentRepo paymentRepo;

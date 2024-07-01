@@ -11,10 +11,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * @author: Theekshana De Silva,
- * @Runtime version: 11.0.11+9-b1341.60amd64
- **/
 @Service
 public class TicketServiceImpl implements TicketService {
     private final TicketRepo ticketRepo;
